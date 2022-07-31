@@ -16,12 +16,9 @@
 
 Eu estou em transição de carreira para Desenvolvedor FrontEnd com React e suas tecnologias. Também estou imerso na stack do JS/TS + NodeJS. Estou fazendo Bootcamps do JSTACK e GOSTACK para me qualificar e profisionalizar mais. 
 <br />
-
-
 <br />
 Eu amo aprender novas tecnologias e novas ferramentas. Eu amo beber Café enquanto escrevo meus códigos.
 <br />
-  
 <br />
 
 Sinta-se à vontade para clonar/fork projetos, levantar problemas e enviar PRs se achar que algo poderia ser melhor.<br />
@@ -43,7 +40,7 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 
 <div align="center">
 
-## Tech Stack
+## Tech Stack:
 
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
