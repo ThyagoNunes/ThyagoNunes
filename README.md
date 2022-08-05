@@ -25,7 +25,7 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 </div>
 
 <div align="center">
-## Tech Stack:
+##Tech Stack:
 </div>
 
 <br />
