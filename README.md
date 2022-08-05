@@ -13,7 +13,7 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThyagoNunes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=8207A4" alt="Abdo Achhoubi Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ThyagoNunes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=C04CFD&icon_color=9E02F2&text_color=D3D3D3&bg_color=4C2A85" alt="Abdo Achhoubi Github Stats">
 
 <img width=478px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoNunes&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 <br />
@@ -28,6 +28,7 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 
 ## Tech Stack:
 
+<br />
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
@@ -54,8 +55,9 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 ---
 
 <div align="center">
-Last Edited on: 30/07/2022
+💬 Quer me conhecer?
 </div>
+<br/>
 <a href="[https://linkedin.com/in/abdoachhoubi](https://www.linkedin.com/in/thyagonunes/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
