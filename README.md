@@ -13,9 +13,9 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThyagoNunes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=C04CFD&icon_color=9E02F2&text_color=D3D3D3&bg_color=4C2A85" alt="Abdo Achhoubi Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ThyagoNunes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=C04CFD&icon_color=9E02F2&text_color=FFF&bg_color=4C2A85" alt="Abdo Achhoubi Github Stats">
 
-<img width=478px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoNunes&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img width=478px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoNunes&layout=compact&theme=dark&bg_color=4C2A85&title_color=C04CFD" alt="Abdo Achhoubi Top Languages"/>
 <br />
 <br />
 
