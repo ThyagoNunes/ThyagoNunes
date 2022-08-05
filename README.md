@@ -46,7 +46,7 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" width="80" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 <a margin="10" href="https://www.docker.com/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" alt="express"></a>
-<a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" alt="express"></a>
+<a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs"></a>
 
 
 <div align="center">
