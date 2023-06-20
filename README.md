@@ -19,7 +19,7 @@
 
 Eu estou em transição de carreira para Desenvolvedor FrontEnd com React e suas tecnologias. Também estou imerso na stack do JS/TS + NodeJS. Estou fazendo Bootcamps do JSTACK e IGNITE para me qualificar e profisionalizar mais. 
 
-I'm currently based in **[Caruaru, Brasil.](https://www.google.com/maps/place/Caruaru**
+I'm currently based in **Caruaru, Brasil (https://www.google.com/maps/place/Caruaru**
 
 <br />
 I possess a deep passion for acquiring knowledge on emerging technologies and leveraging innovative tools. Furthermore, I consistently strive to improve my skill set by setting daily challenges for myself.
