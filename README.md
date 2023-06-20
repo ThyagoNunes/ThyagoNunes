@@ -27,7 +27,7 @@ Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me 
 <br />
 <br />
 
-I welcome and encourage the act of cloning or forking of projects, as well as raising issues and submitting PRs, if there are areas that can be improved. Please do not hesitate to contribute in any way that you deem fit.<br /><br />
+
 <br />
 <br />
 
