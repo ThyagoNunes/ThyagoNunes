@@ -22,7 +22,8 @@ Eu estou em transição de carreira para Desenvolvedor FrontEnd com React e suas
 I'm currently based in **<a href="https://www.google.com/maps/place/Caruaru" target="_blank">Caruaru, Brasil </a>**
 
 <br />
-I possess a deep passion for acquiring knowledge on emerging technologies and leveraging innovative tools. Furthermore, I consistently strive to improve my skill set by setting daily challenges for myself.
+Sinta-se à vontade para clonar/fork projetos, levantar problemas e enviar PRs se achar que algo poderia ser melhor.<br />
+Pergunte-me qualquer coisa aqui <a href="mailto:devthyagonunes@gmail.com"><b>Me mande um email</b></a>.
 <br />
 <br />
 
