@@ -19,7 +19,7 @@
 
 Eu estou em transição de carreira para Desenvolvedor FrontEnd com React e suas tecnologias. Também estou imerso na stack do JS/TS + NodeJS. Estou fazendo Bootcamps do JSTACK e IGNITE para me qualificar e profisionalizar mais. 
 
-I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+I'm currently based in **[Caruaru, Brasil.](https://www.google.com/maps/place/Caruaru**
 
 <br />
 I possess a deep passion for acquiring knowledge on emerging technologies and leveraging innovative tools. Furthermore, I consistently strive to improve my skill set by setting daily challenges for myself.
