@@ -2,7 +2,7 @@
 <img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
 <br />
 <br />
-<h2>Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2>Olá, seja bem vindo ao meu perfil do Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://linkedin.com/in/thyagonunes" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Olá, seja bem vindo ao meu perfil do Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+
 
 Eu estou em transição de carreira para Desenvolvedor FrontEnd com React e suas tecnologias. Também estou imerso na stack do JS/TS + NodeJS. Estou fazendo Bootcamps do JSTACK e IGNITE para me qualificar e profisionalizar mais. 
 
